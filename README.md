@@ -4,7 +4,3 @@ my npm packages:
  - astro-lucide: www.npmjs.com/package/astro-lucide
  - social-share-generator: www.npmjs.com/package/social-share-generator
  - create-desktop-shortcut: www.npmjs.com/package/create-desktop-shortcut
-
-my personal websites:
- - blog: imangelo.dev
- - portfolio: portfolio.imangelo.dev
