@@ -1,4 +1,4 @@
-![Personal blog banner](https://imangelo.dev/banner.png)
+![github-banner](https://github.com/user-attachments/assets/c02be46f-0a54-4df7-aed4-6b8567d93f79)
 
 websites:
  - blog: https://imangelo.dev
